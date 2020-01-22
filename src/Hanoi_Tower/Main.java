@@ -22,6 +22,6 @@ public class Main {
         Tower obj = new Tower();
         int steps = obj.method(n, s, a, d);
         System.out.println();
-        System.out.println("Steps required to navigate all the disks  :  " + steps);
+        System.out.println("Steps required to navigate all the disks  :  " + steps );
     }
 }
